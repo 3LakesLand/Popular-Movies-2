@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start">4dp</dimen>
+    <dimen name="margin_fl">16dp</dimen>
+    <dimen name="image_width">150dp</dimen>
+    <dimen name="image_height">150dp</dimen>
+    <dimen name="no_image_found_tv_text_size">12sp</dimen>
+    <dimen name="progress_bar_width">100dp</dimen>
+    <dimen name="progress_bar_height">100dp</dimen>
+    <dimen name="no_internet_connection_tv_text_size">20sp</dimen>
+    <dimen name="detail_tv_width">180dp</dimen>
+    <dimen name="detail_tv_height">220dp</dimen>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="review_margin">4dp</dimen>
+    <dimen name="trailer_margin">4dp</dimen>
+    <dimen name="star_bt_margin">43dp</dimen>
+    <dimen name="cardview_margin_start">8dp</dimen>
+    <dimen name="cardview_margin_top">8dp</dimen>
+    <dimen name="cardview_margin_end">8dp</dimen>
+
+
+</resources>

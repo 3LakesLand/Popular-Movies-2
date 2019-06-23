@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="top_vote">Vote:</string>
+    <string name="title">Title:</string>
+    <string name="popular_text">Popular:</string>
+    <string name="release_date">Release date:</string>
+    <string name="genre_text">Genre:</string>
+    <string name="overview_text">Overview:</string>
+    <string name="no_image_found">No image found for title:\n\n</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="movie_text_into_action_bar">Movie:\u0020</string>
+    <string name="popular_text_into_action_bar">Popular</string>
+    <string name="top_rated_text_into_action_bar">Top rated</string>
+    <string name="favorite_text_into_action_bar">Favorite</string>
+    <string name="grid_span_count">2</string>
+    <string name="num_stars">10</string>
+    <string name="step_size">1.0</string>
+    <string name="rating">3.0</string>
+    <string name="dummy_text_for_pop_tv">2345</string>
+    <string name="dummy_text_for_title_tv">Hallo ich bin ein Film</string>
+    <string name="dummy_text_for_release_date_tv">2019&#8211;01&#8211;31</string>
+    <string name="dummy_text_for_genre_tv">Science Fiction, Horror</string>
+    <string name="dummy_text_for_overview_tv">Half of all life in the universe has been wiped out and there seems to be only one possible future.</string>
+    <string name="reviews">Review(s)</string>
+    <string name="trailers">Trailer(s)</string>
+    <string name="review_author">author</string>
+    <string name="trailer_name">Name</string>
+    <string name="poplular">Poplular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="favorites">Favorites</string>
+    <string name="review_content_lines">2</string>
+    <string name="review_content_max_lines">2</string>
+
+
+</resources>

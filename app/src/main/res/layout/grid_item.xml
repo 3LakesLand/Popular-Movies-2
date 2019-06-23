@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/margin_fl"
+    android:layout_marginTop="@dimen/margin_fl"
+    android:layout_marginEnd="@dimen/margin_fl"
+    android:layout_marginBottom="@dimen/margin_fl"
+    tools:context=".ui.main.MainActivity">
+
+    <TextView
+        android:id="@+id/no_image_found_tv"
+        android:layout_width="@dimen/image_width"
+        android:layout_height="@dimen/image_height"
+        tools:text="@string/no_image_found"
+        android:visibility="gone"
+        android:textSize="@dimen/no_image_found_tv_text_size"/>
+
+    <ImageView
+        android:id="@+id/movie_img"
+        android:layout_width="@dimen/image_width"
+        android:layout_height="@dimen/image_height"
+        tools:ignore="ContentDescription"
+        tools:src="@mipmap/ic_launcher" />
+
+    <ProgressBar
+        android:id="@+id/loading_indicator"
+        style="@style/Widget.AppCompat.ProgressBar"
+        android:layout_width="@dimen/progress_bar_width"
+        android:layout_height="@dimen/progress_bar_height"/>
+
+
+
+</FrameLayout>
